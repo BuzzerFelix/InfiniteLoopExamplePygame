@@ -1,2 +1,6 @@
 # InfiniteLoopExamplePygame
-My First Python Program for Mp3 Files... Enjoy :D
+My First Python Program for Mp3 Files...
+
+P.S: Please Create Directory Temp and Copy MRisingMusic.mp3 in this Folder... Thanks :D
+
+Soon I'll make Donation in Ko-Fi... 
